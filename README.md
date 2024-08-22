@@ -1,12 +1,12 @@
 # Validating inputs with FluentValidation, MediatR and Global Error Handling
 - [.NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/overview);
 - [IExceptionHandler](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/error-handling?view=aspnetcore-8.0#iexceptionhandler);
-- [minimal API](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio)
-- [MediatR](https://github.com/jbogard/MediatR)
-- [FluentValidation](https://docs.fluentvalidation.net/en/latest/)
+- [minimal API](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio);
+- [MediatR](https://github.com/jbogard/MediatR);
+- [FluentValidation](https://docs.fluentvalidation.net/en/latest/).
 
 **Use Swagger for testing**
-![image](https://github.com/user-attachments/assets/d9422cff-5c4f-42de-afbb-aca3a885d52c)
+![image](https://github.com/user-attachments/assets/8b8cc1ee-1f31-4b2e-8933-ef0b9de52aa3)
 
 
 Using valid values
