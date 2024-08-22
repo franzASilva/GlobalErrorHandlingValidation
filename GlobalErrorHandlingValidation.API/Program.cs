@@ -17,8 +17,8 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "Notification Pattern API",
-        Description = "An ASP.NET Core Web API for exemplify Notification Pattern in a process of exception handling for requests within MediatR",
+        Title = "Global Error Handling Validation API",
+        Description = "An ASP.NET Core Web API for exemplify inputs validation with FluentValidation, MediatR and Global Error Handling",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
         {
